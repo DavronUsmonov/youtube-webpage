@@ -1,0 +1,112 @@
+
+body {
+  font-family:sans-serif;
+}
+
+.nav {
+  margin-top:20px;
+  margin-left:600px;
+}
+
+.vidsec {
+  float:left;
+}
+
+.nextvids {
+  float:left;
+}
+
+.description {
+  margin-left:470px;
+}
+
+.comments {
+  margin-left: 470px;
+  margin-top: 30px;
+}
+
+form {
+  display:inline;
+}
+
+.nav input {
+  height:30px;
+  width:550px;
+}
+
+iframe {
+    width: 1200px;
+    height: 700px;
+    padding:20px;
+    margin-left: 450px;
+    float:left;
+    display:inline;
+}
+
+img {
+  width:200px;
+  display:block;
+  padding-bottom:15px;
+}
+
+.nextvids p {
+  margin-bottom:150px;
+  margin-top:0px;
+  padding:0px;
+}
+
+.thumbnails {
+  float:left;
+}
+
+.videotitles {
+  float:right;
+}
+
+p.first {
+  margin-top:50px;
+}
+
+.nav h1 {
+  display: inline;
+  margin-right: 50px;
+  padding: 10px;
+  color: white;
+  background-color: red;
+  border-radius: 15px;
+}
+
+.vidsec h3 {
+  font-size:17px;
+}
+
+.views {
+  color:grey;
+  padding-bottom:10px;
+  border-bottom:1px solid grey;
+}
+
+.comment {
+    display: inline;
+    margin-right: 20px;
+}
+
+.comments input {
+    width: 1200px;
+    height: 26px;
+}
+
+.name {
+  color:grey;
+  font-size:15px;
+}
+
+
+.comments p {
+  padding:0px;
+  margin:0px;
+}
+
+p.writing {
+    margin-bottom: 20px;
+}
